@@ -1,0 +1,11 @@
+Summary
+Project
+Component
+Version 
+Severyti
+Priority
+Status
+Steps to Reproduce
+Actual Result
+Expected Result
+Additional Information
